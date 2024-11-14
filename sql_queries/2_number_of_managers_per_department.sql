@@ -1,5 +1,5 @@
 /*
-- This query shows the count of female and male managers per department from 1990.
+- This query shows the count of female and male managers per year per department from 1990.
 */
 
 SELECT

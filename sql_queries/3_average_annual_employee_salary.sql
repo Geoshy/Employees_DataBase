@@ -1,5 +1,5 @@
 /*
-- This query shows the averge salary of female and male managers per department from 2002.
+This query shows the average salary of female and male employees per year per department from 2002.
 */
 
 SELECT
