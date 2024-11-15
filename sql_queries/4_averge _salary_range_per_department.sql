@@ -1,5 +1,5 @@
 /*
-- This query shows the average  salary of female and male managers per department,
+- This query shows the average salary of female and male employees per department,
 where employees salary from 50000 to 90000.
 */
 
